@@ -1,0 +1,35 @@
+﻿[
+    {
+        "query": "Where is my order?"
+    },
+    {
+        "query": "I want to return a product"
+    },
+    {
+        "query": "How do I cancel my order?"
+    },
+    {
+        "query": "Can I change my shipping address?"
+    },
+    {
+        "query": "What is the status of my delivery?"
+    },
+    {
+        "query": "How do I track my order?"
+    },
+    {
+        "query": "I received a damaged item"
+    },
+    {
+        "query": "I need help with payment"
+    },
+    {
+        "query": "Where is my refund?"
+    },
+    {
+        "query": "The product I received is wrong"
+    },
+    {
+        "query": "Hi"
+    }
+]
